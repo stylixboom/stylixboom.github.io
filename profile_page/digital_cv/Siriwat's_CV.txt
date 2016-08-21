@@ -1,0 +1,152 @@
+﻿========= SIRIWAT KASAMWATTANAROTE =========
+Blockchain Research Engineer, 
+Strategic Software Development, SBI BITS
+Roppongi T-Cube 20F, 3-1-1 Roppongi, Minato-Ku, Tokyo, 106-0032
+Mobile: (+81)080-4925-4569 E-MAIL: siriwat@live.jp, siriwat.k@sbibits.com
+Website: http://stylixboom.github.io
+Github: http://github.com/stylixboom
+============================================
+
+
+========= EDUCATIONS   =========
+2016 - Ph.D. in Informatics
+	総合研究大学院大学、日本、 SOKENDAI [The Graduate University for Advanced Studies], Japan
+	Research: Large-scale image and video retrieval, information retrieval, and data mining.
+	Thesis: “Query Expansion for Visual Search Using Data Mining Approach”
+2012 - M.Sc. in Computer Science
+	Chulalongkorn University, Thailand
+	Major: CSIT (Computer Science and Information Technology), English program
+	Thesis: “Automated Video Surveillance Summarization System”
+	GPA: 3.63/4.00
+2009 - B.Sc. in Computer Science
+	Mahidol University, Thailand
+	Major: ICT (Information and Communication Technology), English program
+	Senior project: “Intelligent Image Resizing”
+	GPA: 3.10/4.00
+
+========= INVITED SPEAKER =========
+Trading Derivatives on Hyperledger – LCCC Japan 2016
+	Siriwat Kasamwattanarote, Fernando Vazquez, LinuxCon + ContainerCon, Tokyo, Japan, Jul. 15, 2016
+
+
+========= AWARDS =========
+Best Student Poster and Demo Award - WMPA 2014
+	Tell me about TV commercials of this product, Siriwat Kasamwattanarote,
+	The 1st Winter School on Multimedia Processing and Applications, Dublin, Ireland, Jan. 6-8, 2014
+
+
+========= PUBLICATIONS =========
+1. Query Bootstrapping: A Visual Mining based Query Expansion
+	Siriwat Kasamwattanarote, Yusuke Uchida, and Shin’ichi Satoh, IEICE Transactions on Information and Systems, Vol. E99-D NO. 2, pp 454-466, Feb. 1, 2016.
+2. PVSS: Portable Visual Search Service for Researchers
+	Siriwat Kasamwattanarote and Shin’ichi Satoh,
+	The 7th International Conference on Internet Multimedia Computing and Service (ICIMCS 2015), Zhangjiajie, Hunan, China, pp. 64:1--64:5, Aug. 19-21, 2015.
+3. Tell me about TV commercials of this product
+	Cai-Zhi Zhu, Siriwat Kasamwattanarote, Xiaomeng Wu, and Shin'ichi Satoh,
+	The 20th Anniversary International Conference on MultiMedia Modeling, Dublin, Ireland, pp. 242-253, Jan. 6-10, 2014.
+4. Connect Commercial Films with Realities
+	Cai-Zhi Zhu, Siriwat Kasamwattanarote, Xiaomeng Wu, and Shin'ichi Satoh,
+	2013 International Conference on Multimedia Retrieval, Dallas, Texas, USA, pp. 323-324, Apr. 16-20, 2013.
+5. Automated real-time video surveillance summarization framework
+	Nagul Cooharojananone, Siriwat Kasamwattanarote, Shin’ichi Satoh, and Rajalida Lipikorn,
+	Journal of Real-Time Image Processing, Accepted on 16 Sep. 2012. Springer
+6. Real-Time Video Surveillance Summarization and Trajectory Search using Direct Shift Collision Detection
+	Siriwat Kasamwattanarote,
+	Master’s thesis, Chulalongkorn University, Dec. 24, 2011.
+7. Real Time Trajectory Search in Video Summarization using Direct DistanceTransform
+	Nagul Cooharojananone, Siriwat Kasamwattanarote, Shin’ichi Satoh, and Rajalida Lipikorn,
+	10th International Conference on Signal Processing, Beijing, China, vol. 6297/2010, pp. 932-935, Oct. 24-28, 2010.
+8. Real Time Tunnel Based Video Summarization using Direct Shift Collision Detection
+	Siriwat Kasamwattanarote, Nagul Cooharojananone, Shin’ichi Satoh, and Rajalida Lipikorn,
+	11th Pacific Rim Conference on Multimedia, Shanghai, China, pp. 136-147, Sep. 21-24, 2010.
+
+
+========= WORK EXPERIENCES =========
+May 2016 to Present – Blockchain research engineer
+	at Strategic software development (SSD), SBI BITS, Roppongi, Japan
+	•Researching a blockchain based framework for a fully distributed trading platform.
+	•Developing a Japan's first binary options for a liquidity market.
+	•Applying a Hyperledger for a smart contract problem.
+	•Projects:
+		-- Tasks -- Blockchain based binary option.
+		-- Tasks -- Integration of Hyperledger with Docker swarm.
+
+Oct 2012 to Mar 2016 - Research Assistant
+	at Digital Content and Media sciences Research Division,
+	国立情報学研究所、National Institute of Informatics [NII], Tokyo, Japan
+	Projects:
+	•Instance search framework for large-scale image and video retrieval
+		-- Tasks -- Building a full image retrieval system, e.g. several server side services for
+		handling image queries and a client side HTML5-based UI.
+	•NII Commercial film retrieval [Demo: http://www.satoh-lab.nii.ac.jp/~stylix/cf]
+		-- Tasks -- Building a client side UI and several server side retrieval modules.
+	•NII KAORI, face retrieval system [Demo: http://www.satoh-lab.nii.ac.jp/~stylix/face]
+		-- Tasks -- Applying an existing client UI for our Lab’s face retrieval backend.
+	Technical skills: C++, OpenCV, PHP, HTML5, JavaScript, CSS, Linux HPC, iOS, etc.
+
+2013 - Summer Internship
+	at 楽天技術研究所、Rakuten Institute of Technology [RIT], Shinagawa, Japan
+	Project:
+	•Instance search based image retrieval for character recognition
+		-- Tasks -- Using an instance search technique to recognize characters in a natural scene.
+	Technical skills: C++, OpenCV, PHP, HTML5, JavaScript, CSS, etc.
+
+2011 and 2012 - Internship Student
+	at 国立情報学研究所、National Institute of Informatics [NII], Tokyo, Japan
+	Projects:
+	•Agricultural Image Processing System - February to August 2011
+		-- Tasks -- Developing a tool to extract useful information from the existing agriculture video collections
+		e.g. growth rate, seasons, day-night, sky-detect, weather, etc.
+	•Instance Search Demonstration System - January to June 2012
+		-- Tasks -- Building a web interface for sending image query and receiving the related commercial video from Japanese TV.
+	Technical skills: C# .NET, C++, OpenCV, PHP, HTML5, JavaScript, jQuery, CSS, etc.
+
+2007 - Research and Development (R&D) Intern
+	at IWANE Laboratory [岩根], Bangkok, Thailand
+	Tasks: Developing a video street view module for a Windows Mobile 6
+	Project:
+	•3D Video Player for Windows Mobile [for 360-degree video]
+	•2D Video Player for Windows Mobile [for 300-degree video]
+	Technical skills: C# .NET, OpenGL, DirectX, OpenCV, etc.
+
+
+========= TECHNICAL EXPERIENCES =========
+Programming language and Script:
+	C++ (skillful), C, Python, C#, Java, Bash, Objective-C, HTML5, JavaScript, PHP, CSS, jQuery, SQL, ASP, and Assembly
+Technology and Library:
+	OpenCV, MPI, OpenMP, Docker, MongoDB, SQL, HDF5, Hadoop, .NET Framework, WPF, Silverlight, DirectX, OpenGL, Tensorflow
+Platform: Computer:
+	Linux (HPC with RedHat, CentOS, Ubuntu), Linux prefix (LFS), Microsoft Windows Mobile: Android, Apple iOS, Windows Phone
+Development environment:
+	Codelite, PyCharm, Codeblocks, Microsoft Visual Studio, XCode, and Eclipse
+Others:
+	Computer network topology design, maintenance, and support
+
+
+========= PROJECT EXPERIENCES =========
+System and Framework
+1. NII KAORI Person Search Interface, a wrapper web interface for searching person with video clip results (HTML5, JavaScript, PHP, 2013)
+2. Commercial Film Retrieval, server-client based video retrieval (C++, OpenCV, HTML5, JavaScript, PHP, 2012)
+3. Instance Search, NII student internship project (C++, HTML5, JavaScript, PHP, 2012)
+4. Simply-Delicious, a simple bulletin board system (ASP, SQL, 2006)
+
+Standalone Application
+1. Agriculture Analyser, NII student internship project (C#, OpenCV, 2011)
+2. Video Surveillance Summarization and Retrieval (C#, OpenCV, 2010)
+3. Seam Carving for Content-Aware Image Resizing: senior project (C#, OpenCV, 2008)
+4. Gesture Analyser for multi-touch gallery (C#, OpenCV, WPF, 2008)
+5. Mobile Screen Locker on Windows Mobile 6.1 (C#, 2008)
+6. 3D Video Player with GPS based map on Windows Mobile 6.1 (C#, DirectX, 2008)
+7. Image converter based on file format and color depth (C#, 2008)
+8. Easy-Acc accounting system (C#, 2007)
+
+Useful Tools and Toys
+1. Wumpus World using knowledge based to solve the problems (C#, 2008)
+2. N-Puzzle, multi-heuristics based puzzle (C#, 2008)
+3. Soft shadow rendering system (C++, 2007)
+4. File encryptor-descriptor based on AES algorithm (Rijndale) (C#, 2007)
+5. Network package capture software by using PCap library (C#, 2007)
+6. Ciphertext decryptor with using key and brute forcing key (C#, 2007)
+7. File compression using Huffman Code algorithm (C#, 2007)
+8. 8-Puzzle using Breadth First Search algorithm (C#, 2007)
+9. Real-time text encryption system using S-Box algorithm (Assembly, 2006)
