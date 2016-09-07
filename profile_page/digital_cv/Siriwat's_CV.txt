@@ -112,15 +112,16 @@ Oct 2012 to Mar 2016 - Research Assistant
 
 ========= TECHNICAL EXPERIENCES =========
 Programming language and Script:
-	C++ (skillful), C, Python, C#, Java, Bash, Objective-C, HTML5, JavaScript, PHP, CSS, jQuery, SQL, ASP, and Assembly
+	C++ (skillful), C, Node.JS, Python, Go, C#, Java, JavaScript, Bash, Objective-C, HTML5, PHP, CSS, jQuery, SQL, ASP, and Assembly
 Technology and Library:
-	OpenCV, MPI, OpenMP, Docker, MongoDB, SQL, HDF5, Hadoop, .NET Framework, WPF, Silverlight, DirectX, OpenGL, Tensorflow
-Platform: Computer:
-	Linux (HPC with RedHat, CentOS, Ubuntu), Linux prefix (LFS), Microsoft Windows Mobile: Android, Apple iOS, Windows Phone
+	Docker, MongoDB, Hyperledger, OpenCV, MPI, OpenMP, SQL, HDF5, Hadoop, .NET Framework, WPF, Silverlight, DirectX, OpenGL, Tensorflow
+Platform:
+	Computer: Linux (HPC, RedHat, CentOS, Ubuntu, Debian), Linux prefix (LFS), Windows
+	Mobile: Android, Apple iOS, Windows Phone
 Development environment:
-	Codelite, PyCharm, Codeblocks, Microsoft Visual Studio, XCode, and Eclipse
+	Codelite, VS Code, PyCharm, Codeblocks, Microsoft Visual Studio, XCode, and Eclipse
 Others:
-	Computer network topology design, maintenance, and support
+	Computer network and infrastructure design, maintenance, and support
 
 
 ========= PROJECT EXPERIENCES =========
