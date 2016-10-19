@@ -67,9 +67,13 @@ May 2016 to Present – Blockchain research engineer
 	•Researching a blockchain based framework for a fully distributed trading platform.
 	•Developing a Japan's first binary options for a liquidity market.
 	•Applying a Hyperledger for a smart contract problem.
-	•Projects:
-		-- Tasks -- Blockchain based binary option.
+	•Project #1: Blockchain based binary option.
 		-- Tasks -- Integration of Hyperledger with Docker swarm.
+		-- Tasks -- Building an API for accessing the blockchain based database.			
+		-- Tasks -- Implementing a business logic into the chaincode.
+	•Project #2: Blockchain based AML/KYC solution.
+		-- Tasks -- Designing the core architecture.
+		-- Tasks -- Researching on improving the accuracy of AML module.
 
 Oct 2012 to Mar 2016 - Research Assistant
 	at Digital Content and Media sciences Research Division,
@@ -114,7 +118,7 @@ Oct 2012 to Mar 2016 - Research Assistant
 Programming language and Script:
 	C++ (skillful), C, Node.JS, Python, Go, C#, Java, JavaScript, Bash, Objective-C, HTML5, PHP, CSS, jQuery, SQL, ASP, and Assembly
 Technology and Library:
-	Docker, MongoDB, Hyperledger, OpenCV, MPI, OpenMP, SQL, HDF5, Hadoop, .NET Framework, WPF, Silverlight, DirectX, OpenGL, Tensorflow
+	Docker, MongoDB, Hyperledger, Express, Passport, Elasticsearch, OpenCV, MPI, OpenMP, SQL, HDF5, Hadoop, .NET Framework, WPF, Silverlight, DirectX, OpenGL, Tensorflow
 Platform:
 	Computer: Linux (HPC, RedHat, CentOS, Ubuntu, Debian), Linux prefix (LFS), Windows
 	Mobile: Android, Apple iOS, Windows Phone
