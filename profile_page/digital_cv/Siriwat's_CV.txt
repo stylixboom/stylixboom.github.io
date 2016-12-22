@@ -82,9 +82,9 @@ Oct 2012 to Mar 2016 - Research Assistant
 	•Instance search framework for large-scale image and video retrieval
 		-- Tasks -- Building a full image retrieval system, e.g. several server side services for
 		handling image queries and a client side HTML5-based UI.
-	•NII Commercial film retrieval [Demo: http://www.satoh-lab.nii.ac.jp/~stylix/cf]
+	•NII Commercial film retrieval [Demo: http://www2.satoh-lab.nii.ac.jp/~stylix/cf]
 		-- Tasks -- Building a client side UI and several server side retrieval modules.
-	•NII KAORI, face retrieval system [Demo: http://www.satoh-lab.nii.ac.jp/~stylix/face]
+	•NII KAORI, face retrieval system [Demo: http://www2.satoh-lab.nii.ac.jp/~stylix/face]
 		-- Tasks -- Applying an existing client UI for our Lab’s face retrieval backend.
 	Technical skills: C++, OpenCV, PHP, HTML5, JavaScript, CSS, Linux HPC, iOS, etc.
 
