@@ -1,8 +1,8 @@
 ﻿========= SIRIWAT KASAMWATTANAROTE =========
-Blockchain Research Engineer, 
-Strategic Software Development, SBI BITS
-Roppongi T-Cube 20F, 3-1-1 Roppongi, Minato-Ku, Tokyo, 106-0032
-Mobile: (+81)080-4925-4569 E-MAIL: siriwat@live.jp, siriwat.k@sbibits.com
+Research Engineer on Blockchain, AI, and IoT
+AI Team, Blue Wall Japan
+Spline Building 6F, 1-19-2 Dogenzaka, Shibuya-ku, Tokyo 150-0043
+Mobile: (+81)080-4925-4569 E-MAIL: siriwat@live.jp, siriwat@bluewall.jpn.com
 Website: http://stylixboom.github.io
 Github: http://github.com/stylixboom
 ============================================
@@ -62,6 +62,11 @@ Best Student Poster and Demo Award - WMPA 2014
 
 
 ========= WORK EXPERIENCES =========
+Jan 2017 to Present – Research engineer on Blockchain, AI, and IoT
+	at Blue Wall Japan, Inc. Shibuya, Japan
+	•Researching on blockchain technology, AI, image/information retrieval, and related stuffs.
+
+
 May 2016 to Present – Blockchain research engineer
 	at Strategic software development (SSD), SBI BITS, Roppongi, Japan
 	•Researching a blockchain based framework for a fully distributed trading platform.
