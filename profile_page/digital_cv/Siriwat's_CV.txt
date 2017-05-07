@@ -64,7 +64,7 @@ Best Student Poster and Demo Award - WMPA 2014
 ========= WORK EXPERIENCES =========
 Jan 2017 to Present – Research engineer on Blockchain, AI, and IoT
 	at Blue Wall Japan, Inc. Shibuya, Japan
-	•Leading the development team for bitcoin exchange project.
+	•Leading the frontend development team for one of their project.
 	•Researching on blockchain technology, AI, image/information retrieval, and related stuffs.
 
 
